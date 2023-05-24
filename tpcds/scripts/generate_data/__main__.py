@@ -22,7 +22,7 @@ import yt.wrapper
 #    MEDIUM -- medium to generate data on.
 # 4. Run script.
 DIRECTORY = "//home/tpcds/small"
-CLUSTER = "ada"
+CLUSTER = "cluster.http.proxies.address:1234"
 SCALE = 10
 PARALLEL = 10
 MEDIUM = "default"
